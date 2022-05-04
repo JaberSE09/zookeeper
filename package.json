@@ -1,0 +1,23 @@
+{
+  "name": "zookeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaberSE09/zookeepr.git"
+  },
+  "author": "Sajid Jaber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaberSE09/zookeepr/issues"
+  },
+  "homepage": "https://github.com/JaberSE09/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
